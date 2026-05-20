@@ -1,20 +1,23 @@
-### ⭐你好呀宝，这里是桃玖，一个什么都不会的艺术生，请多指教⭐
+<div align="center">
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="zihan-xu-5194a23b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/zihan-xu-5194a23b0?trk=profile-badge">Zihan Xu</a></div>
-              
+# 🌙 桃玖 / Momoku
 
-<!--
-**luoyeye001/luoyeye001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 一个正在学习经营学的艺术生  
+### Business Graduate Student · Tokyo · Beginner Developer
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://jp.linkedin.com/in/zihan-xu-5194a23b0">
+  <img src="https://img.shields.io/badge/LinkedIn-%E6%9D%A5%E5%8A%A0%E4%B8%AA%E5%A5%BD%E5%8F%8B%E5%90%A7-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### ✨ About me
+
+- 🎓 日本大学大学院 経営学研究科  
+- 🎬 以前は映像・映画を勉強していました  
+- 💻 最近は GitHub / Web / AI ツールを少しずつ勉強中  
+- 🌱 まだまだ初心者ですが、よろしくお願いします
