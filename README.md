@@ -1,6 +1,8 @@
 ### ⭐你好呀宝，这里是桃玖，一个什么都不会的艺术生，请多指教⭐
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="zihan-xu-5194a23b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/zihan-xu-5194a23b0?trk=profile-badge">Zihan Xu</a></div>
+              
 
 <!--
 **luoyeye001/luoyeye001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
